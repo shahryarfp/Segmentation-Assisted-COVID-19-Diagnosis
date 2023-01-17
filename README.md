@@ -55,7 +55,7 @@ Results of the segmentation task:
 Result of the diagnosis task:
 
 <!-- ![dia figure](./readme_images/figure.png) -->
-<img src="./readme_images/figure.png" width="300" height="800">
+<img src="./readme_images/figure.png" width="500" height="600">
 
 It reached 92% accuracy for the test data.
 Final results:
