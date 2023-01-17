@@ -12,7 +12,7 @@ Here you can see a sample image from the dataset:
 
 And here is a sample CT image and its mask from the dataset:
 
-![sample CT image and its mask from the dataset](./address)
+![sample CT image and its mask from the dataset](./readme_images/sample.jpg)
 
 ### Explanation
 
