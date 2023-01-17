@@ -42,10 +42,10 @@ In order to do the diagnosis task, a VGG-16 model is used and trained. It is ava
 #### Results
 
 Results of the segmentation task:
-![seg task result](./readme_images/mask-result.jpg)
+![seg task result](./readme_images/mask-result.png)
 
 Result of the diagnosis task:
-![dia figure](./readme_images/figure.jpg)
+![dia figure](./readme_images/figure.png)
 It reached 92% accuracy for the test dataset.
 Final results:
-![Final result](./readme_images/final.jpg)
+![Final result](./readme_images/final.png)
