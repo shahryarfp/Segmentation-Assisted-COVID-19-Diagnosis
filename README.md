@@ -12,7 +12,7 @@ Here you can see a sample image from the dataset:
 
 And here is a sample CT image and its mask from the dataset:
 
-![sample CT image and its mask from the dataset](./readme_images/sample mask.jpg)
+![sample CT image and its mask from the dataset](./readme_images/sample-mask.jpg)
 
 ### Explanation
 
@@ -42,10 +42,10 @@ In order to do the diagnosis task, a VGG-16 model is used and trained. It is ava
 #### Results
 
 Results of the segmentation task:
-![seg task result](./address)
+![seg task result](./readme_images/mask-result.jpg)
 
 Result of the diagnosis task:
-![dia figure](./address)
+![dia figure](./readme_images/figure.jpg)
 It reached 92% accuracy for the test dataset.
 Final results:
-![Final result](./address)
+![Final result](./readme_images/final.jpg)
