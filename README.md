@@ -41,6 +41,11 @@ The dataset for this task is available here:
 In order to do the diagnosis task, a VGG-16 model is used and trained. It is available here:
 [Trained Model](https://drive.google.com/drive/folders/1ubOYddgXB_DkUQwLnlASKzLqA0vo4P1q?usp=share_link)
 
+#### How to use:
+1. Just simply open the code
+2. Correct the links to the dataset and models
+3. Run the code
+
 #### Results
 
 Results of the segmentation task:
@@ -50,10 +55,9 @@ Results of the segmentation task:
 Result of the diagnosis task:
 
 <!-- ![dia figure](./readme_images/figure.png) -->
-<img src="./readme_images/figure.png" width="300" height="600">
+<img src="./readme_images/figure.png" width="300" height="800">
 
-It reached 92% accuracy for the test dataset.
-
+It reached 92% accuracy for the test data.
 Final results:
 <!-- ![Final result](./readme_images/final.png) -->
 <img src="./readme_images/final.png" width="500" height="500">
