@@ -14,7 +14,7 @@ Here you can see a sample image from the dataset:
 And here is a sample CT image and its mask from the dataset:
 
 <!-- ![sample CT image and its mask from the dataset](./readme_images/sample-mask.jpg) -->
-<img src="./readme_images/sample-mask.jpg" width="300" height="300">
+<img src="./readme_images/sample-mask.jpg" width="600" height="300">
 
 ### Explanation
 
@@ -48,9 +48,12 @@ Results of the segmentation task:
 <img src="./readme_images/mask-result.png" width="300" height="600">
 
 Result of the diagnosis task:
-![dia figure](./readme_images/figure.png)
+
+<!-- ![dia figure](./readme_images/figure.png) -->
+<img src="./readme_images/figure.png" width="300" height="600">
 
 It reached 92% accuracy for the test dataset.
 
 Final results:
-![Final result](./readme_images/final.png)
+<!-- ![Final result](./readme_images/final.png) -->
+<img src="./readme_images/final.png" width="500" height="500">
