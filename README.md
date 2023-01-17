@@ -8,7 +8,7 @@ The project is about an efficient method to segment the infection regions automa
 
 Here you can see a sample image from the dataset:
 
-![sample image from dataset](https://github.com/shahryarfp/Segmentation-Assisted-COVID-19-Diagnosis/blob/main/readme_images/sample)
+![sample image from dataset](https://github.com/shahryarfp/Segmentation-Assisted-COVID-19-Diagnosis/blob/main/readme_images/sample.jpg)
 
 And here is a sample CT image and its mask from the dataset:
 
