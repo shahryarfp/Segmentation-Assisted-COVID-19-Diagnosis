@@ -9,7 +9,7 @@ The project is about an efficient method to segment the infection regions automa
 Here you can see a sample image from the dataset:
 
 <!-- ![sample image from dataset](./readme_images/sample.jpg) -->
-<img src="./readme_images/sample.jpg" width="100" height="100">
+<img src="./readme_images/sample.jpg" width="300" height="300">
 
 And here is a sample CT image and its mask from the dataset:
 
