@@ -8,7 +8,7 @@ The project is about an efficient method to segment the infection regions automa
 
 Here you can see a sample image from the dataset:
 
-![sample image from dataset](./address)
+![sample image from dataset](./readme images/sample)
 
 And here is a sample CT image and its mask from the dataset:
 
