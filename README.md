@@ -2,7 +2,7 @@
 
 ### Summary
 
-The project is about an efficient method to segment the infection regions automatically. Then, segmentation results can assist the diagnostic network in identifying the COVID19 samples from the CT images. Besides, a radiologist‑like segmentation network provides detailed information about the infectious regions by separating areas of ground‑glass, consolidation, and pleural effusion.
+The project is about an efficient method to segment the area of infection automatically. Then, segmentation results can assist the diagnostic network in identifying the COVID19 samples from the CT images. Besides, a radiologist‑like segmentation network provides detailed information about the infectious regions by separating areas of ground‑glass, consolidation, and pleural effusion.
 
 ### Dataset
 
